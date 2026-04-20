@@ -20,4 +20,4 @@ def train_model(df):
     # Train model
     model.fit(X_train, y_train)
 
-    return model
+    return model, X_test, y_test
