@@ -12,8 +12,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Generated files
-reports/*.png
-reports/*.csv
+# Generated model files
 models/*.pkl
 models/*.joblib
+
+.idea/
