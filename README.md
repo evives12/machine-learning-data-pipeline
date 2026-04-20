@@ -14,6 +14,9 @@ A Python-based end-to-end machine learning pipeline that performs data cleaning,
 * Exploratory Data Analysis (EDA) to understand dataset structure and trends
 
 ---
+## Example Visualization
+
+![Survival Distribution](reports/survival_distribution.png)
 
 ## Tech Stack
 
